@@ -32,7 +32,7 @@ function App() {
       <button onClick={searchCity}>Buscar</button>
 
       {weather &&<WeatherInformations weather={weather}/>}
-      {weather5days &&<WeatherInformations5Days weather5days={weather5days}/>}
+      {weather5days &&<WeatherInformations5Days weather5Days={weather5days}/>}
     </div>
   )
 }
