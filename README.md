@@ -34,7 +34,4 @@ Este projeto foi desenvolvido com foco em:
 - Interface limpa, responsiva e de fácil navegação
 - Conversão e tratamento de dados recebidos da API (como temperatura, descrição, ícones)
 
----
-
-## 🗂️ Estrutura do Projeto
 
